@@ -10,3 +10,4 @@ JAMStackプロバイダーの比較に使ってます。
 - [Fly.io](https://test-nextjs-app.fly.dev)
 - [Heroku](https://nextjs-test-heroku-fca47fb506ed.herokuapp.com)
 - [Firebase App Hosting](https://test-nextjs--nextjs-test-1c544.us-central1.hosted.app)
+- [自前PaaS (Coolify)](https://nextjs-test.mikanapps.online)
